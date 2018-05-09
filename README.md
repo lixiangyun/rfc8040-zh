@@ -6,7 +6,10 @@
 
 本文档描述了一个基于`HTTP`的协议，它使用网络配置协议（`NETCONF`）中定义的数据存储概念，提供一个编程接口来访问`YANG`中定义的数据。
 
-![PDF下载](https://legacy.gitbook.com/download/pdf/book/lixiangyun/rfc8040)
+## 打包下载
+- [PDF](https://legacy.gitbook.com/download/pdf/book/lixiangyun/rfc8040)
+- [MOBI](https://legacy.gitbook.com/download/mobi/book/lixiangyun/rfc8040)
+- [EPUB](https://legacy.gitbook.com/download/epub/book/lixiangyun/rfc8040)
 
 ## 本备忘录的状态
 
